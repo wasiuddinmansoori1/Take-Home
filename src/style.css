@@ -3,3 +3,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.plasmo-h-500{
+    height: 500px;
+}
+.plasmo-w-500{
+    width: 500px;
+}
+.plasmo-gradient-bg{
+    background: linear-gradient(135deg, #1a237e, #4a148c, #e65100, #f57f17);
+}
+.plasmo-border-4{
+    border-color: whitesmoke;
+}
